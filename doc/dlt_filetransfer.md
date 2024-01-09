@@ -7,7 +7,7 @@ Back to [README.md](../README.md)
 DLT is a reusable open source software component for standardized logging and
 tracing in infotainment ECUs based on the AUTOSAR 4.0 standard.
 
-The goal of DLT is the consolidation of the existing variety of logging and
+The goal of DLT Daemon is the consolidation of the existing variety of logging and
 tracing protocols on one format.
 
 ## Introduction to DLT Filetransfer
